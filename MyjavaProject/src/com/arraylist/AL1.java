@@ -1,5 +1,6 @@
 package com.arraylist;
 import java.util.ArrayList;
+import java.util.Collections;
 
 public class AL1 {
 	public static void main(String[] args) {
@@ -20,5 +21,10 @@ public class AL1 {
 	System.out.println(al.lastIndexOf("bye"));
 	System.out.println(al.contains(20));
 	System.out.println(al);
+	System.out.println(al.set(0, 90));
+	System.out.println(al);
+	System.out.println(al.subList(1,5));
+	al.add(30);
+	System.out.println(al.get(3));
 }
 }
