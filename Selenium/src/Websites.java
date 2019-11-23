@@ -11,5 +11,4 @@ public class Websites {
 		driver.get("http://www.qspiders.com/");
 		driver.close();
 	}
-
 }
