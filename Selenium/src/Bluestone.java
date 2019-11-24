@@ -20,5 +20,4 @@ public class Bluestone {
 			Thread.sleep(1000);
 		}
 	}
-
 }
