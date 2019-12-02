@@ -14,4 +14,5 @@ public class BlustoneKadas {
 		WebElement aj=driver.findElement(By.xpath("//li/a[@title=\"Jewellery\"]"));
 		a.moveToElement(aj).perform();
 		driver.findElement(By.xpath("//div[@class=\"wh-submenu new-column\"]/ul/li/div/ul/li[6]/a[@title=\"Kadas\"]")).click();
+		
 }}
