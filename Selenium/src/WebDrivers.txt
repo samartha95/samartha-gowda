@@ -1,0 +1,13 @@
+					WEB DRIVERS
+method()			return type		Accepts			presentIn
+
+get		          	void			String	     	webdriver
+close	    		void			-		     	webdriver
+manage		    	options			-		    	webdriver
+navigate		 	Navigation	    -	            webdriver
+quit			    void			-		    	webdriver
+getTitle			String			-		    	webdriver
+getCurrentUrl		String			-		    	webdriver
+getWindowHandle		String			-		    	webdriver
+getWindowHandles	Set<String>		-		    	webdriver
+switchTo			TargetLocator	-    	    	webdriver
