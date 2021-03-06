@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Apple iPhone 12 (Green, 256 GB)]]>
+    </line>
+    <line>
+      <![CDATA[Rs 94,900]]>
+    </line>
+    <line>
+      <![CDATA[Swipe 1]]>
+    </line>
+    <line>
+      <![CDATA[Swipe 2]]>
+    </line>
+    <line>
+      <![CDATA[Swipe 3]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-03-06T12:20:49 IST" name="Default suite" finished-at="2021-03-06T12:23:15 IST" duration-ms="146007">
+    <groups>
+    </groups>
+    <test started-at="2021-03-06T12:20:49 IST" name="Default test" finished-at="2021-03-06T12:23:15 IST" duration-ms="146007">
+      <class name="com.testscripts.flipkart.Flipkart">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.testscripts.flipkart.Flipkart@3f6b0be5]" started-at="2021-03-06T12:20:49 IST" name="configBC" finished-at="2021-03-06T12:21:09 IST" duration-ms="20082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="productSpecs()[pri:0, instance:com.testscripts.flipkart.Flipkart@3f6b0be5]" started-at="2021-03-06T12:21:09 IST" name="productSpecs" finished-at="2021-03-06T12:23:14 IST" duration-ms="124225" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Apple iPhone 12 (Green, 256 GB)]]>
+            </line>
+            <line>
+              <![CDATA[Rs 94,900]]>
+            </line>
+            <line>
+              <![CDATA[Swipe 1]]>
+            </line>
+            <line>
+              <![CDATA[Swipe 2]]>
+            </line>
+            <line>
+              <![CDATA[Swipe 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- productSpecs -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.testscripts.flipkart.Flipkart@3f6b0be5]" started-at="2021-03-06T12:23:14 IST" name="configAC" finished-at="2021-03-06T12:23:15 IST" duration-ms="1648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.testscripts.flipkart.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
